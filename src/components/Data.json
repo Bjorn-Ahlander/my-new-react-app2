@@ -3,7 +3,7 @@
     "firstName": "John",
     "lastName": "Doe",
     "id": 1,
-    "src": "https://source.unsplash.com/user/c_v_r/1000x400"
+    "src": "images/1.jpg"
   },
   {
     "firstName": "Johan",
@@ -16,6 +16,12 @@
     "lastName": "Doe",
     "id": 3,
     "src": "images/1.jpg"
+  },
+  {
+    "firstName": "Björn",
+    "lastName": "Ahlander",
+    "id": 4,
+    "src": "https://thispersondoesnotexist.com/"
   }   
 ]
   
